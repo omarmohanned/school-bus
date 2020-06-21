@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3AA097</color>
+    <color name="colorPrimaryDark">#032C95</color>
+    <color name="colorAccent">#88543B</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#272424</color>
+    <color name="start_color_parent_add">#F19F3B</color>
+    <color name="end_color_parent_add">#D73810</color>
+    <color name="red">#F30707</color>
+    <color name="bac">#D1B7B7</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+
+    <color name="FEEDBACK_button">#FFC400</color>
+    <color name="feedback_text_view">#3D5AFE</color>
+    <color name="relative_corner">#EBEDF4</color>
+
+
+
+
+
+</resources>
